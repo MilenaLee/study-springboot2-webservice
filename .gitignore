@@ -4,3 +4,4 @@ application-oauth.properties
 /.idea/
 /build/
 /pem/
+.DS_Store
