@@ -3,4 +3,5 @@
 
 ![994D4A415DE2738514](https://t1.daumcdn.net/cfile/tistory/994D4A415DE2738514)
 
+- [완료] 20.4.9 ~ 20.6.9
 - 참고 repo: https://github.com/jojoldu/freelec-springboot2-webservice
